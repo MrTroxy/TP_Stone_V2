@@ -1,2 +1,3 @@
 # TP_Stone_V2
-# TP_Stone_V2
+
+Repository pour le Travail Pratique 2
